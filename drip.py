@@ -11,8 +11,8 @@ import urllib
 
 inject = {
 
-	"txtUsername": "chrjcann0302",
-	"txtPassword": "762160",
+	"txtUsername": "[username]",
+	"txtPassword": "[password]",
 	"__EVENTVALIDATION": "/wEdAAYwFgklbmiMRbjkTsgQqmcxVK7BrRAtEiqu9nGFEI+jB3Y2+Mc6SrnAqio3oCKbxYainihG6d/Xh3PZm3b5AoMQaWblGWlWhpKppq/72/feNIVi3B09F0PtmOzzeTYZxWOrK56ULJ8+Tmpxk75pYyFMvLAgQg=="
 	
 
